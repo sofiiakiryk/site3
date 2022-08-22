@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+
+  font-family: "Roboto", sans-serif;
+}
+.wrapper {
+  width: 1040px;
+  margin: auto;
+}
+.hadder {
+  height: 100vh;
+  background-image: url(pexels-photo-6845795.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+.hadderlink {
+  text-decoration: none;
+  color: white;
+  margin: 0px 30px;
+}
+.haddermenu {
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 20px;
+}
+.haddertitle {
+  color: rgb(97, 93, 93);
+  font-size: 58px;
+  width: 86%;
+  letter-spacing: 2px;
+  padding-top: 300px;
+}
+.haddertitle-span {
+  font-style: italic;
+}
